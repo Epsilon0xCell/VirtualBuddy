@@ -1,3 +1,7 @@
+![Banner: a silver laptop on an oak desk in a cream walled room, its screen showing the same desk and the same laptop one level smaller and a smaller scene again inside that, a graphite external drive cabled beside it](banner.png)
+
+<p align="center"><img src="logo.png" alt="VirtualBuddy logo: a flat illustration of a silver laptop on an oak desk inside a pale circular frame, its screen showing the same desk and laptop repeated smaller and smaller, a small graphite drive resting beside it at each level" width="200"></p>
+
 <img src="./assets/VirtualBuddyIcon.png" width="128" />
 
 # VirtualBuddy
